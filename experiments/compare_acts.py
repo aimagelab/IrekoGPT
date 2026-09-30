@@ -1,4 +1,4 @@
-# Copyright (c) 2026 Pietro Moriello
+# Copyright (c) 2026 Pietro Moriello, Pietro Buzzega, Angelo Porrello, Simone Calderara
 # Licensed under the MIT license.
 
 import argparse
